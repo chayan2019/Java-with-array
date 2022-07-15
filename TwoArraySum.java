@@ -12,8 +12,10 @@ public class TwoArraySum{
             for (int j = 0; j < array2.length; j++) {
                 
                 sum=array1[i]+array2[j];
+
             }
         }
+        
         System.out.println("Display Sum of all element in array"+" :  " +sum);
 
     }
